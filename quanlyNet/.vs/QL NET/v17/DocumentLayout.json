@@ -1,0 +1,412 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\quanlyNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|D:\\Project\\quanlyNet\\ql net\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|solutionrelative:ql net\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|D:\\Project\\quanlyNet\\ql net\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|solutionrelative:ql net\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|D:\\Project\\quanlyNet\\ql net\\clientchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|solutionrelative:ql net\\clientchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|d:\\project\\quanlynet\\ql net\\buyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|solutionrelative:ql net\\buyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|D:\\Project\\quanlyNet\\ql net\\change.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|solutionrelative:ql net\\change.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|D:\\Project\\quanlyNet\\ql net\\cigarette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|solutionrelative:ql net\\cigarette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|D:\\Project\\quanlyNet\\ql net\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|solutionrelative:ql net\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|D:\\Project\\quanlyNet\\QL NET\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|solutionrelative:QL NET\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|D:\\Project\\quanlyNet\\ql net\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|solutionrelative:ql net\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|D:\\Project\\quanlyNet\\ql net\\cigarette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|solutionrelative:ql net\\cigarette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|D:\\Project\\quanlyNet\\ql net\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|solutionrelative:ql net\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|D:\\Project\\quanlyNet\\ql net\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|solutionrelative:ql net\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|D:\\Project\\quanlyNet\\ql net\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|solutionrelative:ql net\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|D:\\Project\\quanlyNet\\ql net\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|solutionrelative:ql net\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|D:\\Project\\quanlyNet\\ql net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|solutionrelative:ql net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|D:\\Project\\quanlyNet\\ql net\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|solutionrelative:ql net\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|D:\\Project\\quanlyNet\\ql net\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|solutionrelative:ql net\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|QL NET||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|D:\\Project\\quanlyNet\\ql net\\recharge1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|solutionrelative:ql net\\recharge1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|D:\\Project\\quanlyNet\\ql net\\recharge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|solutionrelative:ql net\\recharge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|D:\\Project\\quanlyNet\\ql net\\buyitem.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|solutionrelative:ql net\\buyitem.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|D:\\Project\\quanlyNet\\ql net\\buyitem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162C7C8D-C4A2-4E1C-894D-26D54375A532}|QL NET\\QL NET.csproj|solutionrelative:ql net\\buyitem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\quanlyNet\\QL NET\\Adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QL NET\\Adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\quanlyNet\\QL NET\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QL NET\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\Main.cs",
+              "RelativeDocumentMoniker": "QL NET\\Main.cs",
+              "ToolTip": "D:\\Project\\quanlyNet\\QL NET\\Main.cs",
+              "RelativeToolTip": "QL NET\\Main.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:24:06.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cigarette.cs",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\Cigarette.cs",
+              "RelativeDocumentMoniker": "QL NET\\Cigarette.cs",
+              "ToolTip": "D:\\Project\\quanlyNet\\QL NET\\Cigarette.cs",
+              "RelativeToolTip": "QL NET\\Cigarette.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAjwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:24:00.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\App.config",
+              "RelativeDocumentMoniker": "QL NET\\App.config",
+              "ToolTip": "D:\\Project\\quanlyNet\\QL NET\\App.config",
+              "RelativeToolTip": "QL NET\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-15T18:23:49.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "QL NET\\Properties\\Settings.settings",
+              "ToolTip": "D:\\Project\\quanlyNet\\QL NET\\Properties\\Settings.settings",
+              "RelativeToolTip": "QL NET\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-05-15T18:23:44.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "QL NET\\Properties\\Resources.resx",
+              "ToolTip": "D:\\Project\\quanlyNet\\QL NET\\Properties\\Resources.resx",
+              "RelativeToolTip": "QL NET\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-15T18:23:42.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "QL NET\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Project\\quanlyNet\\QL NET\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "QL NET\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:23:36.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\packages.config",
+              "RelativeDocumentMoniker": "QL NET\\packages.config",
+              "ToolTip": "D:\\Project\\quanlyNet\\QL NET\\packages.config",
+              "RelativeToolTip": "QL NET\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-15T18:22:45.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Food.cs [Design]",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\Food.cs",
+              "RelativeDocumentMoniker": "QL NET\\Food.cs",
+              "ToolTip": "D:\\Project\\quanlyNet\\QL NET\\Food.cs [Design]",
+              "RelativeToolTip": "QL NET\\Food.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:22:38.204Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Drink.cs [Design]",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\Drink.cs",
+              "RelativeDocumentMoniker": "QL NET\\Drink.cs",
+              "ToolTip": "D:\\Project\\quanlyNet\\QL NET\\Drink.cs [Design]",
+              "RelativeToolTip": "QL NET\\Drink.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:22:36.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientChat.cs [Design]",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\ClientChat.cs",
+              "RelativeDocumentMoniker": "QL NET\\ClientChat.cs",
+              "ToolTip": "D:\\Project\\quanlyNet\\QL NET\\ClientChat.cs [Design]",
+              "RelativeToolTip": "QL NET\\ClientChat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:22:34.875Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cigarette.cs [Design]",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\Cigarette.cs",
+              "RelativeDocumentMoniker": "QL NET\\Cigarette.cs",
+              "ToolTip": "D:\\Project\\quanlyNet\\QL NET\\Cigarette.cs [Design]",
+              "RelativeToolTip": "QL NET\\Cigarette.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:22:34.199Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Buyitem.cs [Design]",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\Buyitem.cs",
+              "RelativeDocumentMoniker": "QL NET\\Buyitem.cs",
+              "ToolTip": "D:\\Project\\quanlyNet\\QL NET\\Buyitem.cs [Design]",
+              "RelativeToolTip": "QL NET\\Buyitem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:22:30.651Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Change.cs [Design]",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\Change.cs",
+              "RelativeDocumentMoniker": "QL NET\\Change.cs",
+              "ToolTip": "D:\\Project\\quanlyNet\\QL NET\\Change.cs [Design]",
+              "RelativeToolTip": "QL NET\\Change.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:22:28.022Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\Login.cs",
+              "RelativeDocumentMoniker": "QL NET\\Login.cs",
+              "ToolTip": "D:\\Project\\quanlyNet\\QL NET\\Login.cs*",
+              "RelativeToolTip": "QL NET\\Login.cs*",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:19:22.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QL NET",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\QL NET.csproj",
+              "RelativeDocumentMoniker": "QL NET\\QL NET.csproj",
+              "ToolTip": "D:\\Project\\quanlyNet\\QL NET\\QL NET.csproj",
+              "RelativeToolTip": "QL NET\\QL NET.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-15T18:14:23.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\Program.cs",
+              "RelativeDocumentMoniker": "QL NET\\Program.cs",
+              "ToolTip": "D:\\Project\\quanlyNet\\QL NET\\Program.cs",
+              "RelativeToolTip": "QL NET\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:13:40.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\Login.cs",
+              "RelativeDocumentMoniker": "QL NET\\Login.cs",
+              "ToolTip": "D:\\Project\\quanlyNet\\QL NET\\Login.cs [Design]*",
+              "RelativeToolTip": "QL NET\\Login.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:42:57.761Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\Main.cs",
+              "RelativeDocumentMoniker": "QL NET\\Main.cs",
+              "ToolTip": "D:\\Project\\quanlyNet\\QL NET\\Main.cs [Design]",
+              "RelativeToolTip": "QL NET\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:13:13.73Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Recharge1.cs [Design]",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\Recharge1.cs",
+              "RelativeDocumentMoniker": "QL NET\\Recharge1.cs",
+              "ToolTip": "D:\\Project\\QL NET\\QL NET\\Recharge1.cs [Design]",
+              "RelativeToolTip": "..\\QL NET\\QL NET\\Recharge1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:13:10.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Recharge.cs [Design]",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\Recharge.cs",
+              "RelativeDocumentMoniker": "QL NET\\Recharge.cs",
+              "ToolTip": "D:\\Project\\QL NET\\QL NET\\Recharge.cs [Design]",
+              "RelativeToolTip": "..\\QL NET\\QL NET\\Recharge.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:13:09.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Buyitem.resx",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\Buyitem.resx",
+              "RelativeDocumentMoniker": "QL NET\\Buyitem.resx",
+              "ToolTip": "D:\\Project\\quanlyNet\\QL NET\\Buyitem.resx",
+              "RelativeToolTip": "QL NET\\Buyitem.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-15T18:13:04.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Buyitem.Designer.cs",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\Buyitem.Designer.cs",
+              "RelativeDocumentMoniker": "QL NET\\Buyitem.Designer.cs",
+              "ToolTip": "D:\\Project\\quanlyNet\\QL NET\\Buyitem.Designer.cs",
+              "RelativeToolTip": "QL NET\\Buyitem.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:13:03.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Adduser.cs",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\Adduser.cs",
+              "RelativeDocumentMoniker": "QL NET\\Adduser.cs",
+              "ToolTip": "D:\\Project\\quanlyNet\\QL NET\\Adduser.cs",
+              "RelativeToolTip": "QL NET\\Adduser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:12:46.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\Project\\quanlyNet\\QL NET\\Admin.cs",
+              "RelativeDocumentMoniker": "QL NET\\Admin.cs",
+              "ToolTip": "D:\\Project\\quanlyNet\\QL NET\\Admin.cs",
+              "RelativeToolTip": "QL NET\\Admin.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:12:38.571Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
